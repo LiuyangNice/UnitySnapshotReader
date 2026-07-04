@@ -1,0 +1,14 @@
+# Ignore everything except SnapshotReader/ and root docs
+/*
+!/.gitignore
+!/SnapshotReader
+!/LICENSE
+!/README.md
+
+# SnapshotReader build artifacts
+SnapshotReader/Cli/bin/
+SnapshotReader/Cli/obj/
+
+# OS files
+Thumbs.db
+.DS_Store

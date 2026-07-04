@@ -1,0 +1,26 @@
+{
+    "name": "com.snapshotreader.unity",
+    "version": "1.0.0",
+    "displayName": "Snapshot Reader",
+    "description": "Read and inspect Unity Memory Profiler .snap / .snapshot files directly in the Unity Editor. Provides a 6-tab browser window and a full C# API for programmatic access.",
+    "unity": "2021.3",
+    "unityRelease": "0f1",
+    "keywords": [
+        "memory",
+        "profiler",
+        "snapshot",
+        "snap",
+        "memory profiler",
+        "analysis",
+        "debugging"
+    ],
+    "author": {
+        "name": "SnapshotReader Contributors",
+        "url": "https://github.com/your/snapshot-reader"
+    },
+    "license": "MIT",
+    "licensesUrl": "https://opensource.org/licenses/MIT",
+    "documentationUrl": "https://github.com/your/snapshot-reader/blob/main/README.md",
+    "changelogUrl": "https://github.com/your/snapshot-reader/blob/main/CHANGELOG.md",
+    "dependencies": {}
+}

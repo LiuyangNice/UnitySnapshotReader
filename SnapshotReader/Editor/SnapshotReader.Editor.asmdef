@@ -1,0 +1,12 @@
+{
+    "name": "com.snapshotreader.unity.Editor",
+    "references": [
+        "com.snapshotreader.unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "autoReferenced": true
+}
