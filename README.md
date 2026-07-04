@@ -15,7 +15,7 @@
 // Packages/manifest.json
 {
   "dependencies": {
-    "com.snapshotreader.unity": "https://github.com/YOUR_USER/REPO_NAME.git?path=SnapshotReader"
+    "com.snapshotreader.unity": "https://github.com/LiuyangNice/UnitySnapshotReader.git?path=SnapshotReader"
   }
 }
 ```

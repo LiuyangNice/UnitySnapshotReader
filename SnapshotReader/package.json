@@ -15,12 +15,12 @@
         "debugging"
     ],
     "author": {
-        "name": "SnapshotReader Contributors",
-        "url": "https://github.com/your/snapshot-reader"
+        "name": "LiuyangNice",
+        "url": "https://github.com/LiuyangNice"
     },
     "license": "MIT",
     "licensesUrl": "https://opensource.org/licenses/MIT",
-    "documentationUrl": "https://github.com/your/snapshot-reader/blob/main/README.md",
-    "changelogUrl": "https://github.com/your/snapshot-reader/blob/main/CHANGELOG.md",
+    "documentationUrl": "https://github.com/LiuyangNice/UnitySnapshotReader/blob/main/SnapshotReader/README.md",
+    "changelogUrl": "https://github.com/LiuyangNice/UnitySnapshotReader/blob/main/SnapshotReader/CHANGELOG.md",
     "dependencies": {}
 }

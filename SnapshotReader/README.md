@@ -15,7 +15,7 @@ YourProject/Packages/com.snapshotreader.unity/
 ```json
 {
   "dependencies": {
-    "com.snapshotreader.unity": "https://github.com/your/repo.git"
+    "com.snapshotreader.unity": "https://github.com/LiuyangNice/UnitySnapshotReader.git?path=SnapshotReader"
   }
 }
 ```
